@@ -8,5 +8,5 @@
 - 👯 Always trying to communicate, help and work as a team.
 
 
-:earth_africa: ### Connect with me:
+### :earth_africa: Connect with me:
 [<img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/italo-fernandes-2b560235" height="22" title="LinkedIn" />](https://www.linkedin.com/in/italo-fernandes-2b560235) 

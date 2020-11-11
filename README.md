@@ -12,7 +12,7 @@
 
 [<img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/italo-fernandes-2b560235" height="22" title="LinkedIn" />](https://www.linkedin.com/in/italo-fernandes-2b560235) 
 
-###:octocat: skills with:
+### :octocat: skills with:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat&logo=typescript)

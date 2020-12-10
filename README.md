@@ -1,6 +1,6 @@
 ### Hi there!! <img src="Hi.gif" width="35px"> 
 
-<img title="Italo-J-A-Fernandes's GitHub Stats" align="right" heigth="300" width="400" src="https://github-readme-stats.vercel.app/api?username=Italo-J-A-Fernandes&hide=issues&count_private=true&icon_color=871489&title_color=01057d&bg_color=DEG,ffffff,e8ecfd&show_icons=true?theme=dark)"
+<img title="Italo-J-A-Fernandes's GitHub Stats" align="right" heigth="300" width="400" src="https://github-readme-stats.vercel.app/api?username=Italo-J-A-Fernandes&show_icons=true&theme=dark)"
 />
 
 - :mag: Always curious, researching and building.

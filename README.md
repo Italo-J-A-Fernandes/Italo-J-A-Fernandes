@@ -15,8 +15,9 @@
 ### :octocat: skills with:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat&logo=typescript)
+![  ](https://img.shields.io/badge/-TypeScript-fff?style=flat&logo=typescript)
 ![ReactJS](https://img.shields.io/badge/-ReactJS-blue?style=flat&logo=react)
-![ReactNative](https://img.shields.io/badge/-ReactNative-blue?style=flat&logo=react)
-![Node](https://img.shields.io/badge/-Node.js-brightgreen?style=flat&logo=node.js)
+![ReactNative](https://img.shields.io/badge/-ReactNative-995DF5?style=flat&logo=react)
+![Node](https://img.shields.io/badge/-Node.js-0CEB2E?style=flat&logo=node.js)
+![Docker](https://img.shields.io/badge/-Docker-blue?style=flat&logo=docker)
 

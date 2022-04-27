@@ -6,8 +6,6 @@
 - :mag: Always curious, researching and building.
 - :memo: I'm always hardworking, dedicated and organized.
 - :ant: Always trying to communicate, help and work as a team.
-
-
 ### :earth_africa: Connect with me:
 
 [<img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/italo-fernandes-2b560235" height="22" title="LinkedIn" />](https://www.linkedin.com/in/italo-fernandes-2b560235) 
@@ -20,4 +18,7 @@
 ![ReactNative](https://img.shields.io/badge/-ReactNative-995DF5?style=flat&logo=react)
 ![Node](https://img.shields.io/badge/-Node.js-0CEB2E?style=flat&logo=node.js)
 ![Docker](https://img.shields.io/badge/-Docker-blue?style=flat&logo=docker)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Italo-J-A-Fernandes&layout=compact&theme=dark)](https://github.com/Italo-J-A-Fernandes/github-readme-stats)
 

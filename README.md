@@ -20,5 +20,5 @@
 ![Docker](https://img.shields.io/badge/-Docker-blue?style=flat&logo=docker)
 
 
-<img title="Most Used Languages" align="right" heigth="300" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Italo-J-A-Fernandes&layout=compact&theme=dark"
+<img title="Most Used Languages" align="right" heigth="300" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Italo-J-A-Fernandes&layout=compact&theme=dark"
 />

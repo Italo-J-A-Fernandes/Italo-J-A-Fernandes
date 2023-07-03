@@ -1,5 +1,4 @@
-## :wave: Hi there!! 
-
+## :wave: Hi there!!
 
 ### 👽 About me:
 
@@ -7,11 +6,9 @@
 - :memo: I'm always hardworking, dedicated and organized.
 - :ant: Always trying to communicate, help and work as a team.
 
-
 ### :earth_africa: Connect with me:
 
-[<img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/italo-fernandes-2b560235" height="22" title="LinkedIn" />](https://www.linkedin.com/in/italo-fernandes-2b560235) 
-
+[<img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/italo-fernandes-2b560235" height="22" title="LinkedIn" />](https://www.linkedin.com/in/italo-fernandes-2b560235)
 
 ### :octocat: skills with:
 
@@ -22,12 +19,8 @@
 ![Node](https://img.shields.io/badge/-Node.js-0CEB2E?style=flat&logo=node.js)
 ![Docker](https://img.shields.io/badge/-Docker-blue?style=flat&logo=docker)
 
-
-<img title="Italo-J-A-Fernandes's GitHub Stats" align="left" heigth="300" width="400" src="https://github-readme-stats.vercel.app/api?username=Italo-J-A-Fernandes&count_private=true&theme=dark&show_icons=true)"
+<img title="Italo-J-A-Fernandes's GitHub Stats" align="left" heigth="300" width="400" src="https://github-readme-stats-italo-j-a-fernandes.vercel.app/api?username=Italo-J-A-Fernandes&count_private=true&theme=dark"
 />
 
 <img title="Most Used Languages" align="right" heigth="300" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Italo-J-A-Fernandes&layout=compact&theme=dark"
 />
-
-
-

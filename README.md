@@ -22,8 +22,5 @@
 <img title="Italo-J-A-Fernandes's GitHub Stats" align="left" heigth="300" width="400" src="https://github-readme-stats-italo-j-a-fernandes.vercel.app/api?username=Italo-J-A-Fernandes&count_private=true&theme=dark"
 />
 
-<!-- <img title="Most Used Languages" align="right" heigth="300" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Italo-J-A-Fernandes&layout=compact&theme=dark"
-/> -->
-
 <img title="Most Used Languages" align="right" heigth="300" width="300" src="https://github-readme-stats-italo-j-a-fernandes.vercel.app/api/top-langs/?username=Italo-J-A-Fernandes&layout=compact&theme=dark"
 />
